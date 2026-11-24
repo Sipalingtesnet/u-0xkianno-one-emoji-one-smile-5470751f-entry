@@ -6,7 +6,7 @@
 
 **Emoji:** 🤗
 
-The hugging face emoji is the single emoji most likely to make a stranger smile. It fits the brief because a hug plainly aims to warm whoever reads it, is read the same way by any age or background, and carries no irony, intimacy or flirtation that would land oddly coming from someone unknown.
+The hugging face emoji is the single emoji most likely to make a stranger smile. Reconsidered over heart hands and a smiling sun, a hug is the one candidate that openly aims warmth at whoever reads it, reads the same to every age, and needs no shared in-joke to land.
 
 ## Run it
 
